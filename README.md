@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @casanovanuclear
 - 👀 I’m interested in software 
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on antthing
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me through instagram @nuclear.reigns
 
 <!---
